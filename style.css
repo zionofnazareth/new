@@ -16,7 +16,14 @@
     margin-bottom: 50px;
     filter: brightness(80%);
     padding-bottom: 5px;
+    
   }
+  .navbar a button {
+    background: #fff;
+    color: #288adf;
+    border: none;
+    padding: 8px 15px;
+    border-radius: 100px;}
   
   
   
@@ -33,6 +40,7 @@
     list-style: none;
     display: inline-block;
     padding: 10px;
+    font-size: 20px;
   }
   
   .navbar a {
@@ -47,7 +55,7 @@
   }
   
   .center h1 {
-    color: red;
+    color:green;
     margin-bottom: 10px;
   }
   
